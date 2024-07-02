@@ -2,8 +2,8 @@
 ###
 ### Code illustrating the analyses in:
 ###
-### Heat-related mortality in Europe during the year of 2023
-### Nature Medicine (2024)
+### Heat-related mortality in Europe during 2023 and the role of adaptation in protecting health
+### 
 ###
 ###
 ### Contact: Elisa Gallo (elisa.gallo@isglobal.org)
