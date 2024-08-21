@@ -1,3 +1,5 @@
+**Europe_2023_heat_adaptation**
+
 Analysis of the heat-related mortality in Europe in 2023 and the role of adaptation in the last two decades.
 
 This repository stores the simplified R code with sample data presented in the article: 
