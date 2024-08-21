@@ -1,4 +1,4 @@
-**Europe_2023_heat_adaptation**
+# Europe_2023_heat_adaptation
 
 Analysis of the heat-related mortality in Europe in 2023 and the role of adaptation in the last two decades.
 
